@@ -1,4 +1,5 @@
 ## 문제 풀다가 발견한 유용한 것들 모음 (2021.08.19 최종 수정)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan531&&show_icons=true&theme=synthwave)]
 
 **1. 시간초과 발생시**
 
