@@ -1,8 +1,8 @@
 ## 찬남궁의 깃허브
- 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align=center>
+ 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=찬남궁의%20Github&fontSize=90)
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngchaneok)](https://solved.ac/ngchaneok)
