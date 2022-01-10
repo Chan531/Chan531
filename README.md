@@ -2,7 +2,7 @@
 
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=찬남궁의%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=찬남궁의%20Github&fontSize=70)
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngchaneok)](https://solved.ac/ngchaneok)
