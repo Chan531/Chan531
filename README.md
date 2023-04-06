@@ -5,6 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=찬남궁의%20Github&fontSize=40)
 
 ## 2023 목표🔥
+  1. 💎 백준 다이아 💎
+  2. 생각 중...
+  
   
 ## 알고리즘 근황 😛
 
