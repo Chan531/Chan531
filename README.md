@@ -15,6 +15,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngchaneok)](https://solved.ac/ngchaneok)
 
+## OPGC 📈
+<a href="https://opgc.me/#/users/Chan531" target="_blank"><img src="https://api.opgc.me/githubs/users/Chan531/tag/?theme=basic" /></a>
+
 ## 1일 1커밋 근황 🧐
 
 
