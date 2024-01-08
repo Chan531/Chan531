@@ -4,10 +4,10 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=찬남궁의%20Github&fontSize=40)
 
-## 2023 목표🔥
-  1. 건강하기...
-  2. 백준 다이아
-  
+## 2024 목표🔥
+  1. 취업하기.
+  2. 졸업 전 백준 다이아 올해는 진짜.
+   
   
 ## 알고리즘 근황 😛
 
