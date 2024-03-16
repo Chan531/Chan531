@@ -16,12 +16,14 @@
 
 ## PROJECT
 |Name|Description|Duration|Link|
+|---|------|----|---|
 |Softie|멘탈 케어 루틴 서비스|2023.12 ~ |[App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728)|
 |FLAG|약속 매칭 서비스|2023.06 ~ 2023.08|[Git](https://github.com/flag-app/flag-app-back)|
 |Soongcharo|숭실대학교 선후배 연결 서비스|2023.05 ~ 2023.11|[Git](https://github.com/Soongmile/Soongmile-BE)|
 
 ## ACTIVITY🔥
 |Group|Part|Duration|
+|---|----|---|
 |SOPT|33기 Server OB|2024.03 ~ |
 |SOPT|32기 Server YB|2023.09 ~ 2024.01|
 |UMC|4기 Springboot YB|2023.03 ~ 2023.08|
@@ -29,6 +31,7 @@
 ## EXPERIENCE
 
 |Group|Role|Duration|
+|------|----|----|
 |숭실대학교 글로벌미디학부 학술 소모임 언타이틀|부회장|2021.03 ~ 2023.12|
 |숭실대학교 글로벌미디어학부 학생회|부학생회장|2019.12 ~ 2020.11|
 |숭실대학교 글로벌미디어학부 학생회|기획국원|2019.03 ~ 2019.11|
