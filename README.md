@@ -1,16 +1,18 @@
-## 😄 Introduction
+## 😄 INTRODUCTION
 
-1000일 넘게 꾸준히 성장 중인 백엔드 개발자 남궁찬입니다.
+1. 1000일 넘게 꾸준히 성장 중인 백엔드 개발자 남궁찬입니다.
+2. 현재에 안주하지 않고 더 나은 방향으로 나아가고자 노력합니다.
+3. 지식을 공유하고 공유 받는 것을 좋아합니다.
+<br>
 </br>
 
-
-## ⚒️ Skills
-
+## ⚒️ SKILLS
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<br>
 </br>
 
 ## 📑 PROJECT
@@ -19,6 +21,7 @@
 |Softie|멘탈 케어 루틴 서비스|2023.12 ~ |[App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728)|
 |FLAG|약속 매칭 서비스|2023.06 ~ 2023.08|[Git](https://github.com/flag-app/flag-app-back)|
 |Soongcharo|숭실대학교 선후배 연결 서비스|2023.05 ~ 2023.11|[Git](https://github.com/Soongmile/Soongmile-BE)|
+<br>
 </br>
 
 ## 🏃‍♂️ ACTIVITY
@@ -27,6 +30,7 @@
 |SOPT|33기 Server OB|2024.03 ~ |
 |SOPT|32기 Server YB|2023.09 ~ 2024.01|
 |UMC|4기 Springboot YB|2023.03 ~ 2023.08|
+<br>
 </br>
 
 ## 👨‍🎓 EXPERIENCE
@@ -35,12 +39,24 @@
 |숭실대학교 글로벌미디학부 학술 소모임 언타이틀|부회장|2022.03 ~ 2023.12|
 |숭실대학교 글로벌미디어학부 학생회|부학생회장|2019.12 ~ 2020.11|
 |숭실대학교 글로벌미디어학부 학생회|기획국원|2019.03 ~ 2019.11|
+<br>
 </br>
-   
-  
-## ❓ Algorithm
+
+## 🏅 AWARDS
+|Description|Prize|Period|
+|:---:|:---:|:---:|
+|SOPT 33기 앱잼|우수상|2024|
+|UMC 4기 데모데이|우수상|2023|
+|숭실대학교 프로그래밍 대회 SCON|동상|2023|
+|숭실대학교 컴퓨터학부 소프트웨어 공모전|금상|2022|
+
+<br>
+</br>
+
+## ❓ ALGORITHM
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngchaneok)](https://solved.ac/ngchaneok)
+<br>
 </br>
 
 ## 📈 ETC 
