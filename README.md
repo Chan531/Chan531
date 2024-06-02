@@ -19,8 +19,7 @@
 |Name|Description|Duration|Link|
 |:---:|:------:|:----:|:---:|
 |그려그려|숭실대학교 글로벌미디어학부 졸업전시 프로젝트|2024.03 ~ 2024.05|[Git](https://github.com/Draw-Draw/DrawDraw-BE)|
-|Softie|멘탈 케어 루틴 서비스|2023.12 ~ |[Git](https://github.com/Team-Sopetit/Sopetit-server)
-[App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728)|
+|Softie|멘탈 케어 루틴 서비스|2023.12 ~ |[Git](https://github.com/Team-Sopetit/Sopetit-server)  [App Store](https://apps.apple.com/kr/app/%EC%86%8C%ED%94%84%ED%8B%B0-%EA%B0%80%EC%9E%A5-%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8A%B5%EA%B4%80-%EB%A3%A8%ED%8B%B4-%EC%84%B1%EC%9E%A5-%EC%95%B1/id6476357728)|
 |FLAG|약속 매칭 서비스|2023.06 ~ 2023.08|[Git](https://github.com/flag-app/flag-app-back)|
 |Soongcharo|숭실대학교 선후배 연결 서비스|2023.05 ~ 2023.11|[Git](https://github.com/Soongmile/Soongmile-BE)|
 <br>
