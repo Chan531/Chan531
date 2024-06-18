@@ -28,8 +28,8 @@
 ## 🏃‍♂️ ACTIVITY
 |Group|Part|Duration|
 |:---:|:----:|:---:|
-|SOPT|33기 Server OB|2024.03 ~ |
-|SOPT|32기 Server YB|2023.09 ~ 2024.01|
+|SOPT|34기 Server OB|2024.03 ~ |
+|SOPT|33기 Server YB|2023.09 ~ 2024.01|
 |UMC|4기 Springboot YB|2023.03 ~ 2023.08|
 <br>
 </br>
