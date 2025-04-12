@@ -6,13 +6,6 @@
 <br>
 </br>
 
-## 💻 WORK
-|Company|Team|Role|Duration|
-|:---:|:----:|:---:|:---:|
-|카카오페이|투자그로스TF|백엔드 개발 인턴|2025.04 ~ 2025.10|
-<br>
-</br>
-
 ## ⚒️ SKILLS
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
