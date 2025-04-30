@@ -68,9 +68,7 @@
 ## 📈 ETC 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chan531&&show_icons=true&theme=gruvbox_light) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan531&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ngchaneok" width="600" height="300"/></a>
   
 
